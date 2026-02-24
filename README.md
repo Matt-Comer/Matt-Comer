@@ -1,4 +1,4 @@
-# Hi, I'm Matt Comer 👋
+# Matt Comer 👋
 
 ---
 
@@ -11,21 +11,22 @@ Experienced in:
 - Team leadership and supervision  
 - Project coordination  
 - Quality control and site management  
-- Meeting deadlines under pressure  
-- Problem-solving in fast-paced environments  
+- Delivering projects on schedule  
+- Problem-solving in high-pressure environments  
 
 ---
 
 ## 🎓 Current Focus
 
-Mobile App & Web Development student at triOS College, transitioning into the tech industry with a strong foundation in:
+Mobile App & Web Development student at triOS College, building strong foundations in:
 
 - HTML  
 - CSS  
 - JavaScript  
-- Git  
-- GitHub  
-- Version Control workflows  
+- Git & GitHub  
+- WordPress  
+- Figma (UI/UX Design & Interactive Prototyping)  
+- Structured version control workflows  
 
 ---
 
@@ -36,24 +37,29 @@ Mobile App & Web Development student at triOS College, transitioning into the te
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
 ## 💼 Technical Projects
 
-- **Matt_VCC_1** – Version Control & Collaboration  
+- **Elite Luxury Auto Website** – High-end automotive dealership concept site with luxury UI layout and structured section design  
 - **Scooterama** – Web Development Project  
 - **Friday Night Movie Reels** – JavaScript Application  
+- **HOT TOP FADES** – WordPress Barbershop Website  
+- **UI/UX Interactive Prototypes** – Built in Figma  
+- **Matt_VCC_1** – Version Control & Collaboration  
 
 ---
 
 ## 🚀 Strengths I Bring to Tech
 
-- Leadership mindset from 25+ years in construction  
-- Strong work ethic and accountability  
-- Clear communication and team collaboration  
-- Ability to learn quickly and adapt to new technologies  
-- Commitment to writing clean, organized code  
+- Leadership mindset developed over 25+ years  
+- Strong accountability and work ethic  
+- Structured workflow thinking  
+- Clear communication and collaboration  
+- Attention to detail and quality  
 
 ---
 
