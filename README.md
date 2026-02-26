@@ -44,8 +44,7 @@ Mobile App & Web Development student at triOS College, building strong foundatio
 
 ## 💼 Technical Projects
 
-- **Elite Luxury Auto Website** – High-end automotive dealership concept site with luxury UI layout and structured section design  
-- **Scooterama** – Web Development Project  
+- **Elite Luxury Auto Website** – High-end automotive dealership concept site with luxury UI layout and structured section design    
 - **Friday Night Movie Reels** – JavaScript Application  
 - **HOT TOP FADES** – WordPress Barbershop Website  
 - **UI/UX Interactive Prototypes** – Built in Figma  
